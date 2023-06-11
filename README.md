@@ -1,22 +1,26 @@
-👋 Hello! I'm Muhammad Reza Abdillah, a passionate data science enthusiast and aspiring Data Scientist. Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm Muhmmad Reza Abdillah</h1>
+<h3 align="center">A Student Interseted in Data field</h3>
 
-🎓 Education:
-I am currently pursuing my degree in Digital Business at State University Of Makassar. My coursework includes subjects such as Statistics, Machine Learning, Data Mining, and Programming.
+- 🎓 Currently pursuing my degree in Digital Business at State University Of Makassar.
+- 💻 I love exploring the intersection of data science, machine learning, and business.
+- 🔍 Continuously learning and honing my skills in data analysis, statistical modeling, and data visualization.
+- 🐍 Proficient in Python for data manipulation, analysis, and building machine learning models.
+- 📊 Experienced in data preprocessing, exploratory data analysis (EDA), and predictive modeling.
+- 🌟 Strong problem-solving skills and a keen eye for extracting meaningful insights from complex data sets.
+- 📢 Actively sharing my projects and learnings on GitHub to contribute to the data science community.
+- 💡 Open to exciting opportunities and collaborations in the field of data science and machine learning.
+- 📫 You can reach me at reza.abdillah48@gmail.com or connect with me on LinkedIn [Your LinkedIn Profile URL].
 
-💻 Data Science Interests:
-I have a keen interest in the field of data science and am fascinated by the power of data to drive insights and make informed decisions. I enjoy working with data, exploring patterns, and extracting meaningful insights that can contribute to business strategies.
+- 🌱 I’m currently learning **Data Science & Data Analytics**
 
-🔬 Projects and Skills:
-I have been working on various data science projects, ranging from data preprocessing, exploratory data analysis (EDA), predictive modeling, to data visualization. I am proficient in Python and have hands-on experience with libraries like NumPy, Pandas, Scikit-learn, and Matplotlib. I also have knowledge of SQL for data manipulation and management.
 
-🌱 Continuous Learning:
-As a lifelong learner, I am always seeking opportunities to expand my knowledge and skills in data science. I actively engage in online courses, workshops, and hackathons to stay updated with the latest advancements in the field. I am particularly interested in deepening my understanding of advanced machine learning techniques and big data analysis.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-🤝 Collaboration:
-I believe in the power of collaboration and enjoy working in multidisciplinary teams. I am open to collaborating on data science projects and contributing to open-source initiatives. Feel free to reach out if you have any exciting projects or ideas in mind!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-📫 Contact:
-You can reach me via email at reza.abdillah@gmail.com. I am also available on LinkedIn at https://www.linkedin.com/in/muhammad-reza-abdillah/. Let's connect and explore the world of data science together!
 
 Looking forward to learning and growing in the data science community. Happy exploring and coding!
 
