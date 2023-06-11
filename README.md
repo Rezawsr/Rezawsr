@@ -9,7 +9,7 @@
 - 🌟 Strong problem-solving skills and a keen eye for extracting meaningful insights from complex data sets.
 - 📢 Actively sharing my projects and learnings on GitHub to contribute to the data science community.
 - 💡 Open to exciting opportunities and collaborations in the field of data science and machine learning.
-- 📫 You can reach me at reza.abdillah48@gmail.com or connect with me on LinkedIn [Your LinkedIn Profile URL].
+- 📫 You can reach me at reza.abdillah48@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/muhammad-reza-abdillah/.
 
 - 🌱 I’m currently learning **Data Science & Data Analytics**
 
